@@ -1,0 +1,2 @@
+# Angulartest
+gjennomgang av forelesninger
